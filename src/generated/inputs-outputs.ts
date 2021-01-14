@@ -60,7 +60,7 @@ export enum Inputs {
 
 export enum Outputs {
     /**
-     * JSON object describing the versions that were installed. eg. { kn: { version: "0.17.3", cached: true } }
+     * JSON object describing the versions that were installed.
      * Required: false
      * Default: None.
      */
